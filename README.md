@@ -16,5 +16,4 @@
 % 
 % %% Example ---------------------------------
 % 
-Cite As
-Swapan Kumar Masanta (2019). julian (https://www.github.com/SwapanK/julian), GitHub. Retrieved
+% Cite As: Swapan Kumar Masanta (2019). julian (https://www.github.com/SwapanK/julian), GitHub. Retrieved
